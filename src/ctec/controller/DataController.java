@@ -7,6 +7,6 @@ import ctec.model.*;
 
 public class DataController
 {
-private Queue<Customer> customerQueue;
-private Stack<Dish> dishes;
+	private Queue<Customer> customerQueue;
+	private Stack<Dish> dishes;
 }
